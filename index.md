@@ -9,7 +9,7 @@ region: South America
 
 
 ---
-![Peru](assets/images/logo.png)
+![Peru](assets/images/logo.jpg)
 
 El capitulo de OWASP Peru ha sido reactivado desde el 2019, estamos emocionados de poder compartir y ayudar a crecer a la comunidad, cualquier duda o inquietud no dudes en comunicarte con nosotros.
 
